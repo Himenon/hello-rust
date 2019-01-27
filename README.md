@@ -4,8 +4,10 @@
 
 * https://www.rust-lang.org/learn/get-started
 
-```
+```sh
 cargo init
+
+cargo run
 ```
 
 # License
